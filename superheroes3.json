@@ -1,0 +1,41 @@
+{
+  "squadName" : "GUARDIANES DE LA GALAXIA",
+  "homeTown" : "Bogota",
+  "formed" : 2022,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "GROOT",
+      "age" : 12,
+      "secretIdentity" : "exterminador bomm",
+      "powers" : [
+        "Poder Aracnido",
+        "Super Fuerza",
+        "Zumbido"
+      ]
+    },
+    {
+      "name" : "ROCKET RACCOON",
+      "age" : 48,
+      "secretIdentity" : "al de fuego",
+      "powers" : [
+        "Comunicacion con peces",
+        "Tridente",
+        "Control del Agua"
+      ]
+    },
+    {
+      "name" : "TANOS",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}

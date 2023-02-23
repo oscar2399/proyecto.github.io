@@ -1,0 +1,51 @@
+html {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+  width: 800px;
+  margin: 80 auto;
+  font-family:'Times New Roman', Times, serif;
+  background-image: url(imagenes/heroe.jpg);
+  color: rgb(233, 162, 8);
+}
+
+h1, h2 {
+  font-family:'Times New Roman', Times, serif;
+}
+
+/* header styles */
+
+h1 {
+  font-size: 4rem;
+  text-align: center;
+  color:rgb(198, 226, 73);
+
+}
+
+header p {
+  font-size: 2.4rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* section styles */
+
+section article {
+  width: 33%;
+  float: left;
+}
+
+section p {
+  margin: 5px 0;
+}
+
+section ul {
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 3.5rem;
+  letter-spacing: -5px;
+  margin-bottom: 10px;
+}

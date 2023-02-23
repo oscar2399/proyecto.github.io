@@ -5,7 +5,7 @@
     <title>Our superheroes</title>
 
     <link href="https://fonts.googleapis.com/css?family=Faster+One" rel="stylesheet">
-    <link rel="stylesheet" href="../proyecto/style.css">
+    <link rel="stylesheet" href="style.css">
   
   <body>
     {
@@ -26,7 +26,7 @@
 
     async function populate() {
 
-      const requestURL = '../proyecto/superheroes3.json';
+      const requestURL = 'superheroes3.json';
       const request = new Request(requestURL);
 
       const response = await fetch(request);

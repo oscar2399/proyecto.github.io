@@ -53,6 +53,9 @@ h2 {
 .ArchivoPDF{
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
+ 
+}
+.ArchivoPDF:link{
   color: rgb(231, 247, 17);
-
+  
 }

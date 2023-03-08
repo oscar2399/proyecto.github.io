@@ -7,7 +7,7 @@ body {
   margin: 80 auto;
   font-family:'Times New Roman', Times, serif;
   background-image: url(imagenes/Guardianes.png);
-  color: rgb(233, 162, 8);
+  color: rgb(233, 8, 8);
 }
 
 h1, h2 {
@@ -58,7 +58,7 @@ h2 {
  
 }
 a:link{
-  color: rgb(231, 247, 17);
+  color: rgb(94, 248, 34);
 
 }
 a:visited{

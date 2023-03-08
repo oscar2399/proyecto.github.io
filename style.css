@@ -53,6 +53,8 @@ h2 {
 .a{
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
+  font-size: 1.3rem;
+  font-weight: bold;
  
 }
 a:link{
